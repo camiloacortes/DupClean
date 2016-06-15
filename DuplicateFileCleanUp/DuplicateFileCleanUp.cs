@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DuplicateFileCleanUp
 {
-    public partial class Form1 : Form
+    public partial class DuplicateFileCleanUp : Form
     {
-        public Form1()
+        public DuplicateFileCleanUp()
         {
             InitializeComponent();
         }

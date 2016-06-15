@@ -1,6 +1,6 @@
 ﻿namespace DuplicateFileCleanUp
 {
-    partial class Form1
+    partial class DuplicateFileCleanUp
     {
         /// <summary>
         /// Required designer variable.
